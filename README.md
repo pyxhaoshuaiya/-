@@ -205,7 +205,7 @@ var  preload = {
 timeline.push(preload);
 ```
 在此展示实验中所用到的图片供大家下载。
-![a1](https://yesicon.app/noto/face-savoring-food)
+![a1](images/a1.png)
 ![a2](https://yesicon.app/noto/kissing-face-with-closed-eyes)
 ![a3](https://yesicon.app/noto/partying-face)
 ![a4](https://yesicon.app/noto/star-struck)
